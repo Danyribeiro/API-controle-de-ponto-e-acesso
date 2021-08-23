@@ -3,5 +3,5 @@ Projeto desenvolvido durante o Bootcamp Santander | Fullstack Developer da [Digi
 
 # Tecnologias
 Foram utilizadas as seguintes tecnologias
-*Java 
-*Spring Boot
+* Java 
+* Spring Boot
